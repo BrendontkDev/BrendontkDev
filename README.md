@@ -22,11 +22,15 @@ JavaScript
 Git
 GitHub
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
-(imagens dos gráficos)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrendontkDev&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
+
+## 💻 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendontkDev&layout=compact&theme=github_dark&hide_border=true)
 
 ## 📫 Contato
 
