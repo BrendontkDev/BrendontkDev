@@ -45,14 +45,6 @@
 
 ## 📊 GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BrendontkDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrendontkDev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -66,16 +58,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=BrendontkDev&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BrendontkDev&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
