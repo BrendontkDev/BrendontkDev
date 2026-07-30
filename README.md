@@ -17,6 +17,7 @@
 <a href="https://github.com/BrendontkDev">
   <img src="https://img.shields.io/github/followers/BrendontkDev?style=for-the-badge&logo=github&label=Followers"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=BrendontkDev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
