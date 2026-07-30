@@ -6,19 +6,17 @@
 
 > *Turning ideas into modern web experiences.*
 
-<p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/BrendonTeske">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:brendonteske.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:brendonteske.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/BrendontkDev">
-    <img src="https://img.shields.io/github/followers/BrendontkDev?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<a href="https://github.com/BrendontkDev">
+  <img src="https://img.shields.io/github/followers/BrendontkDev?style=for-the-badge&logo=github&label=Followers"/>
+</a>
 
 </div>
 
@@ -30,8 +28,8 @@
 - 💻 Desenvolvedor **Front-End Jr.**
 - 📜 Certificado em **Introdução à Programação Front-End e Back-End** (SENAI/SC • LAB365)
 - 📚 Atualmente cursando **Fundamentos da Programação com JavaScript (150h)**
-- 🚀 Estudando **JavaScript, React e Node.js**
-- 🎯 Buscando minha primeira oportunidade como Desenvolvedor Front-End.
+- 🌱 Aprendendo **JavaScript, React e Node.js**
+- 🎯 Em busca da minha primeira oportunidade como Desenvolvedor Front-End
 
 ---
 
@@ -49,11 +47,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BrendontkDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BrendontkDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendontkDev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrendontkDev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -61,9 +61,21 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=BrendontkDev&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BrendontkDev&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -85,7 +97,7 @@
 - ⚛️ React
 - 🌐 APIs REST
 - 🟢 Node.js
-- 📦 Git & GitHub
+- 🔀 Git & GitHub
 
 ---
 
@@ -93,7 +105,7 @@
 
 📧 **brendonteske.dev@gmail.com**
 
-💼 **LinkedIn:** https://www.linkedin.com/in/SEU-LINKEDIN
+💼 **LinkedIn:** https://www.linkedin.com/in/SEU_LINKEDIN
 
 ---
 
@@ -101,6 +113,6 @@
 
 ### ⭐ Obrigado pela visita!
 
-*"Code. Learn. Improve. Repeat."*
+**Code • Learn • Build • Improve**
 
 </div>
